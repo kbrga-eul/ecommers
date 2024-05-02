@@ -1,0 +1,1 @@
+Site içerisindeki ilk kurulum
